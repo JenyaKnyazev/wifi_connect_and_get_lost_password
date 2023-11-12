@@ -55,7 +55,6 @@ void main() {
 		run(1,i);
 	printf("Can not connect to wifi or you was not connected before\n"
 		"or the password contains letters or to big\n");
-	//system("netsh wlan set hostednetwork mode=allow ssid=Redmi key=1836547290 >0");
-	//system("netsh wlan connect ssid=Redmi name=Redmi >0");
+	
 	system("pause>0");
 }
